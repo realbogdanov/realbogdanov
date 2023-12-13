@@ -26,6 +26,8 @@ Python Backend Разработчик, стремящийся к соверше�
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realbogdanov&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+
 
 ### 🤝 Социальные сети:
 
