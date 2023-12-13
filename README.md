@@ -23,9 +23,9 @@ Python Backend Разработчик, стремящийся к соверше�
 
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realbogdanov&theme=ayu_mirage)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realbogdanov&theme=apprentice)
-
+---
 
 ### 🤝 Социальные сети:
 
