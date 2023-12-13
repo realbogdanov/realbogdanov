@@ -8,10 +8,6 @@
 Python Backend Разработчик, стремящийся к совершенству. Ответственность и творчество в IT 
 С марта 2022 года по настоящее время я изучал Backend разработку на Python на курсах Skillbox и самостоятельно.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 - Разрабатывал телеграм бот для авиа путешествий.
 
 - Завершил курсы Python Basic от Skillbox!
