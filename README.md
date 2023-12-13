@@ -71,24 +71,18 @@ Python Backend Разработчик, стремящийся к соверше�
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| skillbox.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| skillbox.ru/Веб вёрстка базовый уровень.                        | 02/2022 - 05/2022 |
+| skillbox.ru/Основы Python. Часть 1                              | 05/2022 - 10/2022 |
+| skillbox.ru/Основы Python. Часть 2                              | 10/2022 - 05/2023 |
+| skillbox.ru/Система контроля версий Git                         | 01/2023 - 02/2023 |
+| skillbox.ru/Язык запросов SQL                                   | 01/2023 - 03/2022 |
+| skillbox.ru/Python-фреймворк Django                             | 10/2023 - xx/2024 |
 
---- -->
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 
 ### ⚙️ GitHub статистика:
 
@@ -98,9 +92,9 @@ Python Backend Разработчик, стремящийся к соверше�
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realbogdanov&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=realbogdanov)
