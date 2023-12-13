@@ -23,7 +23,6 @@ Python Backend Разработчик, стремящийся к соверше�
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realbogdanov&theme=ayu_mirage)
 
 ---
 
@@ -85,3 +84,7 @@ Python Backend Разработчик, стремящийся к соверше�
 | skillbox.ru/Система контроля версий Git                         | 01/2023 - 02/2023 |
 | skillbox.ru/Язык запросов SQL                                   | 01/2023 - 03/2023 |
 | skillbox.ru/Python-фреймворк Django                             | 10/2023 - xx/2024 |
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realbogdanov&theme=ayu_mirage)
