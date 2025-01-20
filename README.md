@@ -26,20 +26,7 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&l
 
 My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
 
-Linked In: [![Linkedin Badge](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/vasilii-bogdanov-887714268])
-
 ---
-
-### 🤝 Social Media:
-
-<div id="badges">
-  <a href="https://t.me/realbogdanov" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram" />
-  </a>
-  <a href="https://www.facebook.com/yukozar" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="60" height="60" alt="facebook" />
-  </a>
-</div>
 
 ###
 
