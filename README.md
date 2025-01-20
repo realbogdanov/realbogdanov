@@ -26,7 +26,7 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&l
 
 My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
 
-Linked In: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/andrew-novac](https://www.linkedin.com/in/vasilii-bogdanov-887714268))
+Linked In: [![Linkedin Badge](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/vasilii-bogdanov-887714268])
 
 ---
 
