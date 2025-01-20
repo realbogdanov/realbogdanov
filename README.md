@@ -28,6 +28,12 @@ My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=
 
 ---
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+---
+
 ### 🤝 Social Media:
 
   <div id="badges">
