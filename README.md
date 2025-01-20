@@ -30,21 +30,21 @@ My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=
 
 ### 🤝 Social Media:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vasiliy-bogdanov-887714268/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="60" height="60" alt="linkedin" />
-    </a>
-    <a href="https://t.me/realbogdanov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram" />
-    </a>
-    <a href="https://www.facebook.com/yukozar" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="60" height="60" alt="facebook" />
-    </a>
-  </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vasiliy-bogdanov-887714268/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="60" height="60" alt="linkedin" />
+  </a>
+  <a href="https://t.me/realbogdanov" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram" />
+  </a>
+  <a href="https://www.facebook.com/yukozar" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="60" height="60" alt="facebook" />
+  </a>
+</div>
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+### 🛠 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
