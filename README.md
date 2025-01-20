@@ -6,9 +6,7 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
----
-
-### About me:
+## About me:
 I am a Pipeline TD developer with experience working at Russia's largest CG studio, CGF Studio, where I develop solutions for key software such as Maya, Nuke, and Houdini. 
 My tools include Qt.py, FFMPEG, Pillow, and the internal libraries of these programs.
 
@@ -26,7 +24,14 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&l
 
 My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
 
----
+## Work experience:
+
+| Company - Position                                            | Date                |
+| --------------------------------------------------------------| :-----------------: |
+| CGF Visual Effects Studio - Pipeline TD                       | 12/2024 - currently |
+| FilmDirection - Pipeline TD                                   | 03/2024 - 12/2024   |
+| S7 Airlines - Aircraft Maintenance Technician                 | 12/2016 - 08/2020   |
+
 
 ###
 
@@ -60,15 +65,4 @@ My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?styl
 </div>
 
 
-### 💻 Completed Courses:
-
-| Courses                                                       | Date              |
-| --------------------------------------------------------------| :---------------: |
-| skillbox.ru/Introduction to Programming                       | 02/2022 - 03/2022 |
-| skillbox.ru/Web Development Basic Level                       | 02/2022 - 05/2022 |
-| skillbox.ru/Python Basics. Part 1                              | 05/2022 - 10/2022 |
-| skillbox.ru/Python Basics. Part 2                              | 10/2022 - 05/2023 |
-| skillbox.ru/Git Version Control System                         | 01/2023 - 02/2023 |
-| skillbox.ru/SQL Query Language                                 | 01/2023 - 03/2023 |
-| skillbox.ru/Python Framework Django                            | 10/2023 - xx/2024 |
 
