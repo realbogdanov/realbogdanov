@@ -24,7 +24,7 @@ I regularly study the latest technologies and industry trends through LinkedIn, 
 
 Contact me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com)
 
-My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
+My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
 
 ---
 
