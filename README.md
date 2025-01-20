@@ -22,7 +22,7 @@ I am a team player and a creative leader, always ready to take responsibility fo
 I enjoy sharing knowledge, brainstorming new ideas with colleagues, and implementing workflow improvements. 
 I regularly study the latest technologies and industry trends through LinkedIn, Reddit, and professional events.
 
-Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-My_Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realbogdanov)
+Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realbogdanov)
 
 My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
 
