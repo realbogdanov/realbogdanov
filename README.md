@@ -28,12 +28,6 @@ My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=
 
 ---
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
----
-
 ### 🤝 Social Media:
 
   <div id="badges">
@@ -48,9 +42,9 @@ My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=
     </a>
   </div>
 
----
+###
 
-### 💻 Technologies:
+<h3 align="left">🛠 Технологии:</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
@@ -64,7 +58,6 @@ My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp
 </div>
 
----
 
 ### 🛠 Tools:
 
@@ -80,7 +73,6 @@ My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp;
 </div>
 
----
 
 ### 💻 Completed Courses:
 
