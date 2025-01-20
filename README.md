@@ -22,18 +22,17 @@ I am a team player and a creative leader, always ready to take responsibility fo
 I enjoy sharing knowledge, brainstorming new ideas with colleagues, and implementing workflow improvements. 
 I regularly study the latest technologies and industry trends through LinkedIn, Reddit, and professional events.
 
-Contact me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com)
+Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realbogdanov)
 
-My CG blog: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
+My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
+
+Linked In: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/andrew-novac](https://www.linkedin.com/in/vasilii-bogdanov-887714268))
 
 ---
 
 ### 🤝 Social Media:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/vasiliy-bogdanov-887714268/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="60" height="60" alt="linkedin" />
-  </a>
   <a href="https://t.me/realbogdanov" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram" />
   </a>
