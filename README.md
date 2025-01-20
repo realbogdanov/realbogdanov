@@ -6,20 +6,23 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-
 ---
 
 ### About me:
+I am a Pipeline TD developer with experience working at Russia's largest CG studio, CGF Studio, where I develop solutions for key software such as Maya, Nuke, and Houdini. 
+My tools include Qt.py, FFMPEG, Pillow, and the internal libraries of these programs.
 
-Python Backend Developer striving for excellence. Responsibility and creativity in IT.
+My work has improved software performance by over 3 times, significantly enhancing team workflows. 
+I specialize in automating processes, creating stylish and user-friendly interfaces, and exploring AI applications to optimize CG artists' workflows.
 
-Since March 2022, I have been studying Backend development in Python at Skillbox courses.
+Before entering the CG industry, I spent five years in aviation, including three years as an aircraft technician. 
+This background shaped my approach: systems must be error-proof, code should be fully documented and scalable, and solutions must prioritize reliability and efficiency.
 
-- Developed a Telegram bot for air travel.
-- Completed Python Basic courses at Skillbox!
-- Participated in the development of a commercial bot for tracking tasks in a team.
-- Worked for over 5 years in an international aviation company, used international documentation, and had permits for independent work.
+I am a team player and a creative leader, always ready to take responsibility for complex tasks. 
+I enjoy sharing knowledge, brainstorming new ideas with colleagues, and implementing workflow improvements. 
+I regularly study the latest technologies and industry trends through LinkedIn, Reddit, and professional events.
 
+---
 Contact me: [![Telegram Badge](https://img.shields.io/badge/-realbogdanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realbogdanov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com)
 
 ---
