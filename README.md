@@ -22,7 +22,7 @@ I regularly study the latest technologies and industry trends through LinkedIn, 
 
 Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:realbogdanov@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/realbogdanov) [![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/vasilii-bogdanov-887714268)
 
-My community: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
+My Telegram Chanel: [![Telegram Badge](https://img.shields.io/badge/-CG_blog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cgb_official)
 
 ## Work experience:
 
